@@ -4,7 +4,7 @@
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anushka Singh!] -->
 
 <h3 align="center">An ardent person by nature who loves to code and is always ready to face new challenges in life!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07singh&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushka-163" alt="Anushka-163" /></a> </p>
 
 

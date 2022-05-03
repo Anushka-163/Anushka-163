@@ -1,5 +1,4 @@
-<a href="#"><img src="https://github.com/Anushka-163/Webgenix/blob/main/images/co.jpg" width="1000px" height="400px"/></a>
-
+<img src="images/bg2.png"> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
 <h1 align="center"><i>Anushka Singh , </i></h1>

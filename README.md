@@ -1,4 +1,4 @@
-<img src="https://www.shutterstock.com/image-vector/programmer-engineering-development-illustration-developer-project-1095220631" width="1000px"> 
+<img src="https://www.istockphoto.com/vector/thinking-emoticon-question-face-emoji-with-eyeglasses-vector-illustration-gm1310060658-399583785" width="1000px"> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
 <h1 align="center"><i>Anushka Singh , </i></h1>

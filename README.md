@@ -1,4 +1,4 @@
-<img src="https://hlediamp0vxxm0o1q9dmq14j-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Coding.jpg" width="500px"> 
+<img src="https://hlediamp0vxxm0o1q9dmq14j-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Coding.jpg" width="1000px"> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
 <h1 align="center"><i>Anushka Singh , </i></h1>

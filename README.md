@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpopularjobnews.xyz%2F3-tips-to-learn-data-science-the-easy-way%2F&psig=AOvVaw0ECz9R_n_BM--sDExN1dwe&ust=1651672482434000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCn9tC9w_cCFQAAAAAdAAAAABAJ" width="1000px"> 
+<img src="https://www.shutterstock.com/image-vector/programmer-engineering-development-illustration-developer-project-1095220631" width="1000px"> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
 <h1 align="center"><i>Anushka Singh , </i></h1>

@@ -1,5 +1,5 @@
 <img src="https://media.istockphoto.com/vectors/cute-smiling-emoticon-wearing-black-sunglasses-emoji-vector-vector-id1310060743?s=612x612" width="200px" height="200px"> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="49px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
 
 <h1 align="center"><i>I'm...Anushka Singh , </i></h1>
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anushka Singh!] -->

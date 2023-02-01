@@ -11,6 +11,7 @@
 
 
 - 📫 How to reach me *anushka7923singh@gmail.com*
+- 📫 How to reach me *anushkasinghrajput163@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

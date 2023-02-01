@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.instagram.com/annu_anushkaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annu_anushkaa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anushka-singh-58b376202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-singh-58b376202" height="30" width="40" /></a>
-<a href="https://leetcode.com/Anushka_singh_163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="Anushka_singh_163" height="30" width="40" /></a>
+<a href="https://leetcode.com/Anushka_singh_163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anushka_singh_163" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anushka7923singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushka7923singh" height="30" width="40" /></a>
 </p>
 <p align="left">

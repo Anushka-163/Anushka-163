@@ -10,7 +10,7 @@
 
 <h3 align="center">An ardent person by nature who loves to code and is always ready to face new challenges in life!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>
-<img src="[https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHvzBoUXIsJBz2vX_VfY0BO0MLSK7opwZWaT8nc037G0jesT1yJle6QKK5SqjUcItUsEYV3KzqU8&usqp=CAU&ec=48665698)" width=500px />
+<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=500px />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushka-163" alt="Anushka-163" /></a> </p>
 
 

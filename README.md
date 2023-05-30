@@ -5,14 +5,14 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey,+there+I'm+Anushka+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
     </div>
     <br>
-    <img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=500px length= 800px/>
+    
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anushka Singh!] -->
 
 <h3 align="center">An ardent person by nature who loves to code and is always ready to face new challenges in life!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushka-163" alt="Anushka-163" /></a> </p>
 
-
+<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=500px length= 800px/>
 
 - 📫 How to reach me *anushka7923singh@gmail.com*
 - 📫 How to reach me *anushkasinghrajput163@gmail.com*

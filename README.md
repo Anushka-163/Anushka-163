@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushka-163" alt="Anushka-163" /></a> </p>
 
-<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=1000px />
+<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=800px />
 
 - 📫 How to reach me *anushka7923singh@gmail.com*
 - 📫 How to reach me *anushkasinghrajput163@gmail.com*

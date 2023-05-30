@@ -1,7 +1,10 @@
 <img src="https://media.istockphoto.com/vectors/cute-smiling-emoticon-wearing-black-sunglasses-emoji-vector-vector-id1310060743?s=612x612" width="200px" height="200px"> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="49px">
-<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
-<h1 align="center"><i> Anushka Singh , </i></h1>
+<div align=center>
+         <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
+           <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey,+there+I'm+Anushka+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
+    </div>
+    <br>
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anushka Singh!] -->
 
 <h3 align="center">An ardent person by nature who loves to code and is always ready to face new challenges in life!</h3>

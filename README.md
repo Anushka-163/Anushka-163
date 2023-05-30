@@ -1,6 +1,6 @@
 <img src="https://media.istockphoto.com/vectors/cute-smiling-emoticon-wearing-black-sunglasses-emoji-vector-vector-id1310060743?s=612x612" width="200px" height="200px"> 
 <div align=center>
-         <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
+         <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>-->
            <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
         <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey,+there+I'm+Anushka+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
     </div>
@@ -36,7 +36,7 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-163&langs_count=7&theme=react")](https://github.com/Anushka-163/github-readme-stats"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-163&show_icons=true&locale=en" alt="Anushka-163" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-163&" alt="Anushka-163" /> </p>

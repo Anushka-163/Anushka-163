@@ -1,4 +1,4 @@
-<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fclash-of-codes.netlify.app%2F&psig=AOvVaw1dy8RtoEHI12Ri46AZP9WX&ust=1685560500993000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiRlrXgnf8CFQAAAAAdAAAAABAF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaYWS78K8v5wUVgL0lKxTf-XdXutPV7-5DcHpP6qdsw&usqp=CAU&ec=48665698)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaYWS78K8v5wUVgL0lKxTf-XdXutPV7-5DcHpP6qdsw&usqp=CAU&ec=48665698)" />
+<img src=""C:\Users\abhay\OneDrive\Desktop\Code Images And Pictures (Technology) - All HD Wallpapers.jpg"" />
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>-->
            <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 

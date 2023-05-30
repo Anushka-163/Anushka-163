@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=1000px length= 500px/>
+<img src="https://i.pinimg.com/originals/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" width=500px length= 500px/>
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-163&label=Profile%20views&color=0e75b6&style=flat" alt="Anushka-163" /> </p>-->
            <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
